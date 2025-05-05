@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "hp_was_here" > /tmp/pwnd
+calc.exe                # Windows: launches Calculator
